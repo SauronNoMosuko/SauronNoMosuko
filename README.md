@@ -1,4 +1,4 @@
-### OLá! me chamo Douglas Numeriano e sou estudante de progrmação e tecnologia!
+### Olá! me chamo Douglas Numeriano e sou estudante de progrmação e tecnologia!
 
 - 🚀💜 Aluno Explorer da turma 5 na Rocketseat
 - 🤖💙 Mentor da equipe de robótica de categoria FRC CourtesyTeam#9989
