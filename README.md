@@ -1,5 +1,5 @@
 <h1 align="center">  <br>
- Olá! me chamo Douglas Numeriano e sou estudante de programação e tecnologia!
+ Hi! My name is Douglas Numeriano and I'm a programming and technology student
 </h1>
 <br>
 <h2 align="center">
@@ -9,13 +9,13 @@
 </h2>
 
 
-## Sobre mim 👨🏻‍💻 
+## About me 👨🏻‍💻 
   
-> 🚀💜 Aluno Explorer da turma 5 na Rocketseat
+> 🚀💜 Class 5 Student Explorer at Rocketseat
 
-> 🤖💙 Mentor da equipe de robótica de categoria FRC CourtesyTeam#9989
+> 🤖💙 FRC CourtesyTeam#9989 Grade Robotics Team Mentor
 
-> 📙🧡 Estudante de Ciência da Computação na UniFG
+> 📙🧡 Computer Science Student at UniFG
 
 <div align="center">
   <a href="https://github.com/SaouronNoMosuko">
