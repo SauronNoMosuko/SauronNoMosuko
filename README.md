@@ -1,5 +1,5 @@
 <h1 align="center">  <br>
- Olá! me chamo Douglas Numeriano e sou estudante de progrmação e tecnologia!
+ Olá! me chamo Douglas Numeriano e sou estudante de programação e tecnologia!
 </h1>
 <br>
 <h2 align="center">
