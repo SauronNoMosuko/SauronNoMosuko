@@ -7,13 +7,10 @@
 <h3 align="center">  <br>
  Olá! me chamo Douglas Numeriano e sou estudante de progrmação e tecnologia!
 </h3>
-<ol>
-  <li list-style-type= circle>
+  
 - 🚀💜 Aluno Explorer da turma 5 na Rocketseat
 - 🤖💙 Mentor da equipe de robótica de categoria FRC CourtesyTeam#9989
 - 📙🧡 Estudante de Ciência da Computação na UniFG
-  </li>
-</ol>
 
 <div align="center">
   <a href="https://github.com/SaouronNoMosuko">
