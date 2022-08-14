@@ -41,7 +41,7 @@
  
  > Thank u 🚀💜
  
- <a href="https://www.buymeacoffee.com/moshfiqrony" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
+ <a href="https://www.buymeacoffee.com/moshfiqrony" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35" width="auto"></a>
    
   
   
