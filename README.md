@@ -19,7 +19,7 @@
  
    <a href="https://www.linkedin.com/in/douglas-numeriano-7405b5235/#education" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:douglasnumeriano11@hotmail.com?subject=%3CInforma%C3%A7%C3%A3o%20necess%C3%A1ria%3E&body=%3CInforma%C3%A7%C3%A3o%20necess%C3%A1ria%3E" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href=" https://wa.me/+5581995395091" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href=" https://wa.me/qr/7PYCGYJMABVKD1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/ZkKDWGXQUp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
      <a href="https://www.instagram.com/_douglaaass_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/d94be0dcd7cfa1fbf5f7534a51143bc2.gif">
