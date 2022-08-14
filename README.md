@@ -1,5 +1,5 @@
 <h1 align="center">  <br>
- Hi! My name is Douglas Numeriano and I'm a programming and technology student
+ Hi! My name is Douglas Numeriano and I'm a programming and technology student!
 </h1>
 <br>
 <h2 align="center">
