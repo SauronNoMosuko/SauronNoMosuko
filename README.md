@@ -38,6 +38,10 @@
     <a href="https://discord.gg/ZkKDWGXQUp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
      <a href="https://www.instagram.com/_douglaaass_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/d94be0dcd7cfa1fbf5f7534a51143bc2.gif">
+ 
+ > Thank u 🚀💜
+ 
+ <a href="https://www.buymeacoffee.com/moshfiqrony" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
    
   
   
