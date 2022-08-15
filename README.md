@@ -10,6 +10,8 @@
 
 
 ## <img height="40" align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  About me 👨🏻‍💻 
+
+<img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
   
 > 🚀💜 Class 5 Student Explorer at Rocketseat
 
