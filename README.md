@@ -9,7 +9,7 @@
 </h2>
 
 
-## About me 👨🏻‍💻 
+## <img height="40" align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  About me 👨🏻‍💻 
   
 > 🚀💜 Class 5 Student Explorer at Rocketseat
 
@@ -29,7 +29,7 @@
 </div>
 
  
-  ## <img height="40" align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connections 
+  ## <img height="40" align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connections 🛸
  
  ###
  
