@@ -29,7 +29,7 @@
 </div>
 
  
-  ## <img height="40" align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links 
+  ## <img height="40" align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connections 
  
  ###
  
