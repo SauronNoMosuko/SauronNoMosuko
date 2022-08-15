@@ -1,5 +1,5 @@
 <h1 align="center">  <br>
- Hi! My name is Douglas Numeriano and I'm a programming and technology student!
+ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi! My name is Douglas Numeriano and I'm a programming and technology student! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
 </h1>
 <br>
 <h2 align="center">
