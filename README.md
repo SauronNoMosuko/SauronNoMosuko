@@ -37,6 +37,8 @@
     <a href="mailto:douglasnumeriano11@hotmail.com?subject=%3CInforma%C3%A7%C3%A3o%20necess%C3%A1ria%3E&body=%3CInforma%C3%A7%C3%A3o%20necess%C3%A1ria%3E" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/ZkKDWGXQUp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
      <a href="https://www.instagram.com/_douglaaass_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://app.netlify.com/teams/sauronnomosuko/overview" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
+ <a href="https://vercel.com/sauronnomosuko" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
       <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/d94be0dcd7cfa1fbf5f7534a51143bc2.gif">
  
  > Thank u 🚀💜
