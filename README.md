@@ -1,7 +1,20 @@
 <h1 align="center">  <br>
  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi! My name is Douglas Numeriano and I'm a programming and technology student! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
 </h1>
-<br>
+
+```javascript
+let dev = {
+name: 'Douglas',
+age: 18,
+nacionality: 'Brazil',
+work: 'FullStack developer'
+}
+
+console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
+I'm currently studying to be a ${dev.work}`)
+```
+
+
 <h2 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
