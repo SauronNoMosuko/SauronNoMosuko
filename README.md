@@ -7,7 +7,7 @@ let dev = {
 name: 'Douglas',
 age: 18,
 nacionality: 'Brazil',
-work: 'FullStack developer'
+work: 'Front-End developer | FullStack in progress...'
 }
 
 console.log(`Hi! I'm ${dev.name}, I'm ${dev.age} years old and i'm from ${dev.nacionality}! 
